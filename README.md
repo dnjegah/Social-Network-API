@@ -4,6 +4,7 @@ This is an API for a social network web application where users can share their 
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This API uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
 Walkthrough video
+https://drive.google.com/file/d/1JbWntoIhLS49dl54Oe1PcQxBV_W0VO_z/view?usp=sharing
 
 In this project, I worked with MongoDB, Express.js, and Mongoose ODM to build an API for a social networking web application. The objective was to allow users to share their thoughts, react to friends' thoughts, and create a friend list. The API was structured using Express.js for routing and a MongoDB database with Mongoose ODM. Additionally, I used a JavaScript date library or the native JavaScript Date object to format timestamps. Since no seed data was provided, I created my own data using Insomnia after building the API. This project allowed me to understand the technologies that social networking platforms use in their full-stack applications, with a focus on building and structuring the API.
 
