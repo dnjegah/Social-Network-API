@@ -14,7 +14,8 @@ Credits
 License
 Contributing
 Questions
-Installation
+
+### Installation
 Install dependencies by entering npm i in package.json terminal. Start server by entering node server.js.
 
 ### Usage
